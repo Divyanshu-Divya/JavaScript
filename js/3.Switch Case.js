@@ -13,4 +13,4 @@
         //     default:
         //         // console.log('You are 18')
         //         break;
-       // }    2
+       // }    
