@@ -74,6 +74,6 @@
 
                 //  Strings
                     let e = "Pryanshu" 
-                    condole.log("My String is " + e);
-                    codole.log("Data Type is" + (typeof e));
+                    console.log("My String is " + e);
+                    console.log("Data Type is" + (typeof e));
                 //
