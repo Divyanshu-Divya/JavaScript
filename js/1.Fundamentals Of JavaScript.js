@@ -312,37 +312,10 @@
                     //(ii) instanceof	Returns true if an object is an instance of an object type
         //Ternary Oerator
         // console.log(age==45? 'Age is 45' : "age is not 45")
+
+
         
-        //If Else Conditionals
-                //     let age = 28;
-                // if (age == 19) {
-                //     console.log('Age is 19');
-                // } else if(age === 65){
-                //     // console.log('Age is not 19');
-                // } else {
-                //     // console.log('Age is not 25');
-                // }
-                // let vari;
-                // //To see variable Is Defined Or not
-                // if (typeof vari !== 'undefined') {
-                //     // console.log ('Variable is Defined')
-                // } else {
-                //     // console.log('Variable is not Defined')
-                // }
-        
-        //Swith Case
-        // switch (age) {
-        //     case 18:
-        //         // console.log('You are 18' );
-        //         break;
-        //     case 28:
-        //         // console.log('You are 28' );
-        //         break;
-        //     case 38:
-        //         // console.log('You are 38' );
-        //             break;    
-        
-        //     default:
-        //         // console.log('You are 18')
-        //         break;
-       // }        
+    
+
+
+       
