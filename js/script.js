@@ -55,11 +55,25 @@
     //          //           *c = "true 2" *  //variable reassignment  not possible.
     //          //      * let c = "false" *  //variable redeclared not possible.
 
-// Data Types of the Variable's Value
-//    1.var x =  "Hellow World"                          String
-//    2.var x = 25;                                      Number
-//    3.var x = true / false;                            Boolean
-//    4.var x = ["HTML","CSS","JS"];                     Array
-//    5.var x = {firstName:"Priyanshu",lastName:"Priya"} Object
-//    6.var x = null;                                    Null 
-//    7.var x;                                           Undefined   
+                // Data Types of the Variable's Value
+                // 1.Primitive Data Type (Memory Alloction - Stack)
+                //    (i)String          "Priyanshu"
+                //    (ii)Numbers        34
+                //    (iii)Boolean       true/false
+                //    (iv)Null           null 
+                //    (v)Undefined       undefined/0
+                //    (vi)Symbol         //New in ES6
+                //
+                // 2.Reference Data Type (Memory Alloction - Heap)Derived
+                //    (i)Arrays                 ["HTML","CSS","JS"];
+                //    (ii)Object Literals       {firstName:"Priyanshu",lastName:"Priya"}
+                //    (iii)Functions
+                //    (iv)Dates
+
+                // Type of Operator Return TTHe Data Type of Any data
+
+                //  Strings
+                    let e = "Pryanshu" 
+                    condole.log("My String is " + e);
+                    codole.log("Data Type is" + (typeof e));
+                //
