@@ -46,6 +46,6 @@
     console.log("done");
  // After Function 
     array = ["Fruits","Mango","Apple","Banana"]
-   arr.forEach(function(element, index, array) {
+   array.forEach(function(element, index, array) {
     console.log(element, index)
     });     

@@ -46,7 +46,7 @@
 //
 
  
-    // 1.        var x = "This is the value of a Variable"; // 'var' has a global scope.
+    // 1.        var x = "This is the value of a Variable"; // 'var' has a function/global lavel scope.
     //         x = 'Reassigned value of the Variable' //Vaiables Assined by 'var'can be reassigned .And var is not needed to be writen next time(multiple time) during Reassignment of the varible.
     //         var y , z;  // In This(var) type of variable ,its is also posible that variables Can be fist made at other place and Decleared at other place. And Multiple variables can also be made during this process.
     //         y = 10;//And Any Type of Varables(Explain Later) can be Declared By using var.
@@ -64,7 +64,7 @@
     //          //           c = "true 2"  //variable reassigned
     //          //      * let c = "false" *  //variable redeclared not possible.
              
-    // 3.      const d = "";  //   'const'  Constant Variable and has a global scope.
+    // 3.      const d = "";  //   'const'  Constant Variable and has a block lavel scope.
     //          // Value of 'const' neither be reassigned  nor be redeclared.That's why 'const' is known as Constant Variable. 
     //          // 
     //          // e.g.-  let d = "true"  //variable declared and assigned
